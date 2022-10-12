@@ -1,0 +1,5 @@
+venv/
+terraform.tfvars
+.idea/
+.terraform/
+main.zip
